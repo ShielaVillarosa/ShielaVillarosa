@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shiela! 👋
 
-<!--
-**ShielaVillarosa/ShielaVillarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Team Lead with more than 20 years of experience in banking operations, client servicing, compliance, and process improvement.
 
-Here are some ideas to get you started:
+🔭 I’m currently transitioning into AI, automation, and Python development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+
+- Python
+- AI Prompt Engineering
+- AI Evaluation
+- Process Automation
+- Power Automate
+
+## Tools
+
+- ChatGPT
+- Google Gemini
+- Microsoft Copilot
+- Excel
+- Power BI
+- Power Automate
+
+## 2026 Goals
+
+- Build 20 Python projects
+- Contribute to AI evaluation platforms
+- Help businesses automate repetitive tasks
+- Grow into an AI Automation Specialist
+
+Thanks for visiting my profile!
